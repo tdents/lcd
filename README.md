@@ -3,8 +3,8 @@ Display_______________MSP430 <br>
 (CS)__X_______________X(P2_0) <br>
 (RST)_X_______________X(P2_1) <br>
 (RS)__X_______________X(P2_2) <br>
-(DAT)_X_______________X(P1_7) <br> MISO
-(CLK)_X_______________X(P1_5) <br> SCK
+(DAT)_X_______________X(P1_7) MISO <br>
+(CLK)_X_______________X(P1_5) SCK <br>
 
 #MMC/SD card pin map
 ___Card_______________MSP430G2553 <br>
